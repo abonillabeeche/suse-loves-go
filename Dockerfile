@@ -21,3 +21,6 @@ USER demo_user
 # containers.
 EXPOSE 8080
 
+#Add EntryPoint
+
+ENTRYPOINT ["./demo/webapp"]
