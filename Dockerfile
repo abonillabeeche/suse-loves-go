@@ -23,4 +23,4 @@ EXPOSE 8080
 
 #Add EntryPoint
 
-ENTRYPOINT ["./demo/webapp"]
+ENTRYPOINT ["./webapp"]
